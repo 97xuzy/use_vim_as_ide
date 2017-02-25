@@ -108,6 +108,7 @@ Plugin 'sjl/gundo.vim'
 Plugin 'Lokaltog/vim-easymotion'
 Plugin 'suan/vim-instant-markdown'
 Plugin 'lilydjwg/fcitx.vim'
+Plugin 'rust-lang/rust.vim'
 
 " 插件列表结束
 call vundle#end()
